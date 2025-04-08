@@ -1,10 +1,25 @@
-# Anderson Cafurica 👨💻
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🚀 **Backend Developer | Python & Django Specialist**  
-🌍 **Luanda, Angola**  
-📧 **Contact:** [andersonpaulo931@gmail.com](mailto:andersonpaulo931@gmail.com)  
-📱 **WhatsApp:** [+244 928 301 450](https://wa.me/244928301450)  
-💼 **GitHub:** [Emicy963](https://github.com/Emicy963)  
+<h1 align="center">
+  Hey there!👋
+  Cafu💻
+</h1>
+    
+<div align="center" >
+  🚀 Backend Developer | Python & Django Specialist
+</div>
+
+## 🌐 Social Links  
+<div align="left">
+  <a href="https://linkedin.com/in/anderson-cafurica" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/244928301450" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
 ---
 
@@ -71,11 +86,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
-
----
-
-## 🌐 Social Links  
-[![LinkedIn](https://img.shields.io/badge/-Anderson_Cafurica-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anderson-cafurica)  
-[![GitHub](https://img.shields.io/badge/-Emicy963-181717?logo=github)](https://github.com/Emicy963)  
