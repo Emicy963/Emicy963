@@ -54,12 +54,8 @@ Hi, I'm **Cafu** (you can call me **Emicy**)! I'm passionate about technology, s
   ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Emicy963&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2)
   
   ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emicy963&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&langs_count=8)
-  
-</div>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emicy963&theme=dracula&hide_border=true" alt="GitHub Streak Stats"/>
+  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Emicy963&theme=dracula&hide_border=true)
   
 </div>
 
