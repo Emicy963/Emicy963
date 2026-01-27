@@ -2,137 +2,147 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif" />
 </div>
 
-<h1 align="center">
-  👋 Hey there! I'm Cafu
-</h1>
-    
+<h1 align="center">👋 Hey there! I'm Cafu</h1>
+
 <div align="center">
-  🚀 Backend Developer | Python & Django Specialist
+  🚀 Backend Developer → Machine Learning Engineer (in progress)
+  <br>
+  <strong>Python | Django | FastAPI | Machine Learning | MLOps</strong>
   <br><br>
-  
-  [![committers.top badge](https://user-badge.committers.top/angola_public/Emicy963.svg)](https://user-badge.committers.top/angola_public/Emicy963)
-  ![Profile Views](https://komarev.com/ghpvc/?username=Emicy963&color=blueviolet&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/Emicy963?style=social)](https://github.com/Emicy963)
+
+[![committers.top badge](https://user-badge.committers.top/angola_public/Emicy963.svg)](https://user-badge.committers.top/angola_public/Emicy963)
+![Profile Views](https://komarev.com/ghpvc/?username=Emicy963\&color=blueviolet\&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Emicy963?style=social)](https://github.com/Emicy963)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Cafu** (you can call me **Emicy**)! I'm passionate about technology, science, math, physics, and astrophysics. Let's code together! 
+Hi, I'm **Cafu** (also known as **Emicy**).
+
+I'm a **Backend Developer** transitioning into **Machine Learning & AI Engineering**, focused on building **production-ready systems** that combine solid software engineering with data-driven intelligence.
+
+I’m deeply interested in **science, mathematics, physics, and artificial intelligence**, and I enjoy working on projects where theory meets real-world impact.
 
 <div align="center">
-  
-  ### 🎯 *Nerd Today, Boss Tomorrow.* 🚀
-  
+
+### 🎯 *Engineering today, intelligence tomorrow.* 🚀
+
 </div>
 
-- 🔭 Currently working on backend projects with **Django** and **FastAPI**
-- 🌱 Learning more about **microservices architecture** and **cloud technologies**
-- 💬 Ask me about **Python**, **Django**, **REST APIs**, or **database design**
-- 📍 Based in **Huambo, Angola** 🇦🇴
-- 🌐 Portfolio: [anderson-cafurica.vercel.app](https://anderson-cafurica.vercel.app)
+* 🔭 Currently building backend systems with **Django** and **FastAPI**
+* 🤖 Transitioning into **Machine Learning & Applied AI**
+* 🧠 Strong interest in **ML in production**, not just notebooks
+* 🌱 Learning **Machine Learning, Statistics, Deep Learning & MLOps**
+* 💬 Ask me about **Python**, **Backend Architecture**, **APIs**, or **Databases**
+* 📍 Based in **Huambo, Angola** 🇦🇴
+* 🌐 Portfolio: [anderson-cafurica.vercel.app](https://anderson-cafurica.vercel.app)
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Career Focus
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anderson-cafurica)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244928301450)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anderson-cafurica.vercel.app)
-  
+My goal is to become a **Machine Learning Engineer**, leveraging my strong backend background to:
+
+* Build scalable APIs for ML models
+* Deploy and monitor models in production
+* Bridge the gap between data science and software engineering
+
+This combination allows me to deliver **real, usable AI systems**, not just experiments.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Programming Languages**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
+### **Backend & APIs**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</div>
+
+### **Databases**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
+
+### **Machine Learning & Data** *(learning & applying)*
+
+<div align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</div>
+
+### **DevOps & Tools**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **ML End-to-End Projects** *(Data → Model → API → Deploy)*
+🔹 **Backend APIs with Django & FastAPI**
+🔹 **Machine Learning Models in Production** *(ongoing)*
+
+➡️ Detailed project descriptions are available in the repositories below.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Emicy963&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2)
-  
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emicy963&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&langs_count=8)
 
-  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Emicy963&theme=dracula&hide_border=true)
-  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Emicy963\&show_icons=true\&theme=radical\&include_all_commits=true\&count_private=true\&hide_border=true\&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emicy963\&layout=compact\&theme=radical\&hide_border=true\&bg_color=0d1117)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Emicy963\&theme=dracula\&hide_border=true)
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Languages**
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</div>
-
-### **Frameworks & Libraries**
-<div align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
-</div>
-
-### **Databases**
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</div>
-
-### **DevOps & Tools**
-<div align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</div>
-
-### **Frontend**
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emicy963&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/anderson-cafurica)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anderson-cafurica.vercel.app)
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emicy963&theme=dracula&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
-</div>
 
-<div align="center">
-  
-  ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-  
-  ---
-  
-  ⭐️ From [Emicy963](https://github.com/Emicy963) with ❤️
-  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+⭐️ From **Emicy963** with ❤️
+
 </div>
